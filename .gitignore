@@ -1,0 +1,5 @@
+env.cmd
+*.swp
+apache*
+_java
+target
